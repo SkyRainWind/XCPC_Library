@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1705726435 "e:/Deny/大学/ACM/prob/Others/aizu-geo/hello.tex" "hello.pdf" "hello" 1705726442 2
+  "e:/Deny/大学/ACM/prob/Others/aizu-geo/hello.tex" 1705461365 79 0c147c6b0bd2922dea05279e46e644e0 ""
+  "e:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1705417798 35752 024fb6c41858982481f6968b5fc26508 ""
+  "e:/texlive/2023/texmf-dist/tex/latex/base/article.cls" 1705424411 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "e:/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1705424411 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "e:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1705424341 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "e:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1705417590 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "e:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1705431561 4662804 22465f629ad4ac3769d68a5f0c21fc8b ""
+  "e:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705432018 7883440 f9e2ad47a14ea361667bf6ab4fdc8511 ""
+  "e:/texlive/2023/texmf.cnf" 1705431466 713 e69b156964470283e0530f5060668171 ""
+  "hello.aux" 1705726441 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hello.tex" 1705461365 79 0c147c6b0bd2922dea05279e46e644e0 ""
+  (generated)
+  "hello.aux"
+  "hello.log"
+  "hello.pdf"
+  (rewritten before read)
